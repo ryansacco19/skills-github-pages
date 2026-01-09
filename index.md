@@ -1,4 +1,4 @@
 ---
-title: Howdy
+Howdy: Welcome to my blog
 ---
 
